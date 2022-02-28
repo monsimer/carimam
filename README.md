@@ -2,6 +2,8 @@
 
 Classification de signaux de mammifères marins dans les Caraïbes
 
+Codes de https://github.com/lamipaul/carimam modifiés pour tourner sur le serveur du méso-centre de calcul de Grenoble
+
 ## Pré-traitement
 
 2 types de pré-traitement : 
